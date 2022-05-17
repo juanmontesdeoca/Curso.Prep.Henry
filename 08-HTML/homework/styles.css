@@ -1,0 +1,24 @@
+.divClass h1{
+    color:red;
+
+} 
+  .divClass #spanId{
+      font-size: 18px;
+      margin: 50px;
+  }
+ 
+ #thidDiv {
+    height: 600px;
+    width: 500px;
+    background-color:blue;
+    padding: 50px;
+    border: 5px  crimson;
+
+ }
+
+
+ #thirdDiv ul li img{
+  width: 400px;
+
+
+ }
